@@ -1,0 +1,107 @@
+/* *{
+    margin: 0;
+    
+}
+.box {
+    position: absolute;
+    left: 500px;
+    top: 210px;
+    width: 800px;
+    height: 600px;
+    background-color: burlywood;
+}
+
+.box .red {
+    position: absolute;
+
+    width: 100px;
+    height: 100px;
+    background-color: red;
+
+}
+
+.box .green {
+    top: 0;
+    right: 0;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+
+.box .gray {
+
+    position: absolute;
+    top: 250px;
+    left: 370px;
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+}
+
+.box .blue {
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.box .yellow {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+} */
+
+
+
+body{
+    background-color: darkgoldenrod;
+    margin-top: 250px;
+    margin-left: 500px;
+}
+.box{
+    position: absolute;
+    border-radius: 20px;
+    width: 800px;
+    height: 500px;
+    background-color: darkslategrey;
+}
+.box .date i{
+    color: whitesmoke;
+    position: absolute;
+    top: 150px;
+    left: 150px;
+}
+.box .css h1{
+    position: absolute;
+    color: whitesmoke;
+    top: 180px;
+    left: 150px;
+}
+.box .lorem p{
+    position: absolute;
+    color: whitesmoke;
+    left: 150px;
+    top: 250px;
+}
+.box .button input{
+    position: absolute;
+    background-color: cornflowerblue;
+    width: 150px;
+    height: 50px;
+    border-radius: 60px;
+    top: 340px;
+    left: 150px;
+} .box .img img{
+    border-radius: 50%;
+    position: absolute;
+    margin-top: -50px;
+    margin-left: -50px;
+    width: 200px;
+    height: 200px;
+}
